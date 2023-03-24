@@ -1,0 +1,16 @@
+Going for a walk and I went North
+Hmmm where am I
+You are at the following position (0.0,1.0)
+Wait let me go back!
+Going for a walk and I went West
+Hmmm where am I
+You are at the following position (-1.0,0.0)
+Wait let me go back!
+Going for a walk and I went South
+Hmmm where am I
+You are at the following position (0.0,-1.0)
+Wait let me go back!
+Going for a walk and I went East
+Hmmm where am I
+You are at the following position (1.0,0.0)
+Wait let me go back!
